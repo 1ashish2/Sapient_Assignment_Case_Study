@@ -21,11 +21,11 @@
   }
   .content .content-box{
     flex-wrap: wrap;
-     width: 22%;
+     width: 21%;
      height: 37rem;
      /* box-shadow: 0px 15px 10px -15px #111; */
      border-bottom: 1px dotted;
-     margin: 1.5rem 2rem 1.5rem 1.5rem;
+     margin: 1.5rem 1rem 1.5rem 1.5rem;
   }
   .content .content-box h4{
     height:5rem;
@@ -127,7 +127,7 @@
         padding: 0;
     }
     .content .content-box{
-        width: 42%;
+        flex-basis: 43%;
         height: 23rem;
        
     }
